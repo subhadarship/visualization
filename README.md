@@ -1,5 +1,8 @@
 # visualization
 
-using seaborn: see `seaborn/`
+### how to save plot in `eps` or `png` format
+see `save_plot.py`
 
-save plot in `eps` or `png` format: `save_plot.py`
+### using seaborn
+
+see `seaborn/`
