@@ -8,6 +8,7 @@ plt.tight_layout()
 
 # save to files, eps format useful for latex
 plt.savefig('test_plot.eps', format='eps')
+plt.savefig('test_plot.pdf', format='pdf')
 plt.savefig('test_plot.png', format='png')
 
 # show the plot
