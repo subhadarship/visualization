@@ -1,10 +1,14 @@
 # visualization
 
-### how to save plot in `eps` or `png` format
+### how to save plot in `eps` or `pdf` or `png` format
 see `save_plot.py`
 
-note: `eps` format is useful for `LaTeX`
+note: `eps` and `pdf` formats are useful for `LaTeX`
 
 ### using seaborn
 
 see `seaborn/`
+
+### using matplotlib
+
+see `matplotlib/`
