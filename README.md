@@ -5,10 +5,10 @@ see `save_plot.py`
 
 note: `eps` and `pdf` formats are useful for `LaTeX`
 
-### using seaborn
-
-see `seaborn/`
-
 ### using matplotlib
 
 see `matplotlib/`
+
+### using seaborn
+
+see `seaborn/`
