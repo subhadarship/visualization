@@ -12,3 +12,7 @@ see `matplotlib/`
 ### using seaborn
 
 see `seaborn/`
+
+### dimensionality reduction
+
+see `matplotlib/dimensionality_reduction.py`
