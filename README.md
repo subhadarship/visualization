@@ -16,3 +16,7 @@ see `seaborn/`
 ### dimensionality reduction
 
 see `matplotlib/dimensionality_reduction.py`
+
+### plotting heatmap
+
+see `matplotlib/plot_matrix.py`, `matplotlib/plot_matrix.py`, `matplotlib/plot_matrix.py`
