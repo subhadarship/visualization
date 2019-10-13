@@ -19,4 +19,6 @@ see `matplotlib/dimensionality_reduction.py`
 
 ### plotting heatmap
 
-see `matplotlib/plot_matrix.py`, `matplotlib/plot_matrix.py`, `matplotlib/plot_matrix.py`
+see `matplotlib/plot_heatmap.py`, `matplotlib/plot_matrix.py`, `seaborn/plot_heatmap.py`
+
+(`seaborn/plot_heatmap.py` is the best choice)
