@@ -21,4 +21,5 @@ sns.heatmap(
 # set x and y labels
 plt.xlabel('x-label name (diana)')
 plt.ylabel('y-label name (sam)')
+plt.tight_layout()
 plt.show()
