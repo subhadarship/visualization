@@ -22,3 +22,7 @@ see `matplotlib/dimensionality_reduction.py`
 see `matplotlib/plot_heatmap.py`, `matplotlib/plot_matrix.py`, `seaborn/plot_heatmap.py`
 
 (`seaborn/plot_heatmap.py` is the best choice)
+
+### plot for paper
+
+see [`matplotlib/paper.ipynb`](https://github.com/subhadarship/visualization/blob/master/matplotlib/paper.ipynb)
