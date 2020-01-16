@@ -36,6 +36,7 @@ plot(x, y, color='green', marker='o', linestyle='dashed', linewidth=2, markersiz
 ```
 
 ### useful resources
+- [xkcd colors](https://xkcd.com/color/rgb/)
 - [matplotlib markers](https://matplotlib.org/3.1.1/api/markers_api.html)
 - [matplotlib line styles](https://matplotlib.org/gallery/lines_bars_and_markers/line_styles_reference.html)
-- [xkcd colors](https://xkcd.com/color/rgb/)
+
