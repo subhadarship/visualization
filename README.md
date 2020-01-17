@@ -1,29 +1,29 @@
 # visualization
 
-### how to save plot in `eps` or `pdf` or `png` format?
+## how to save plot in `eps` or `pdf` or `png` format?
 see `save_plot.py`
 
 note: `eps` and `pdf` formats are useful for `LaTeX`
 
-### using matplotlib
+## using matplotlib
 
 see `matplotlib/`
 
-### using seaborn
+## using seaborn
 
 see `seaborn/`
 
-### dimensionality reduction
+## dimensionality reduction
 
 see `matplotlib/dimensionality_reduction.py`
 
-### plotting heatmap
+## plotting heatmap
 
 see `matplotlib/plot_heatmap.py`, `matplotlib/plot_matrix.py`, `seaborn/plot_heatmap.py`
 
 (`seaborn/plot_heatmap.py` is the best choice)
 
-### plot for paper
+## plot for paper
 
 see [`matplotlib/paper.ipynb`](https://github.com/subhadarship/visualization/blob/master/matplotlib/paper.ipynb)
 
@@ -35,11 +35,11 @@ plot(x, y, 'go--', linewidth=2, markersize=12)
 plot(x, y, color='green', marker='o', linestyle='dashed', linewidth=2, markersize=12)
 ```
 
-### plotting error (standard deviations)
+## plotting error (standard deviations)
 
 see [`matplotlib/show_errors.ipynb`](https://github.com/subhadarship/visualization/blob/master/matplotlib/show_error.ipynb)
 
-### useful resources
+## useful resources
 - [xkcd colors](https://xkcd.com/color/rgb/)
 - [matplotlib markers](https://matplotlib.org/3.1.1/api/markers_api.html)
 - [matplotlib line styles](https://matplotlib.org/gallery/lines_bars_and_markers/line_styles_reference.html)
