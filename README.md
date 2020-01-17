@@ -35,6 +35,10 @@ plot(x, y, 'go--', linewidth=2, markersize=12)
 plot(x, y, color='green', marker='o', linestyle='dashed', linewidth=2, markersize=12)
 ```
 
+### plotting error (standard deviations)
+
+see [`matplotlib/show_errors.ipynb`](https://github.com/subhadarship/visualization/blob/master/matplotlib/show_error.ipynb)
+
 ### useful resources
 - [xkcd colors](https://xkcd.com/color/rgb/)
 - [matplotlib markers](https://matplotlib.org/3.1.1/api/markers_api.html)
