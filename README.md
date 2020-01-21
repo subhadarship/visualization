@@ -15,13 +15,13 @@ see [`seaborn/`](https://github.com/subhadarship/visualization/tree/master/seabo
 
 ## dimensionality reduction
 
-see `matplotlib/dimensionality_reduction.py`
+see [`matplotlib/dimensionality_reduction.py`](https://github.com/subhadarship/visualization/blob/master/matplotlib/dimensionality_reduction.py)
 
 ## plotting heatmap
 
-see `matplotlib/plot_heatmap.py`, `matplotlib/plot_matrix.py`, `seaborn/plot_heatmap.py`
+see [`matplotlib/plot_heatmap.py`](https://github.com/subhadarship/visualization/blob/master/matplotlib/plot_heatmap.py), [`matplotlib/plot_matrix.py`](https://github.com/subhadarship/visualization/blob/master/matplotlib/plot_matrix.py), [`seaborn/plot_heatmap.py`](https://github.com/subhadarship/visualization/blob/master/seaborn/plot_heatmap.py)
 
-(`seaborn/plot_heatmap.py` is the best choice)
+([`seaborn/plot_heatmap.py`](https://github.com/subhadarship/visualization/blob/master/seaborn/plot_heatmap.py) is the best choice)
 
 ## plot for paper
 
