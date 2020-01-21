@@ -7,11 +7,11 @@ note: `eps` and `pdf` formats are useful for `LaTeX`
 
 ## using matplotlib
 
-see `matplotlib/`
+see [`matplotlib/`](https://github.com/subhadarship/visualization/tree/master/matplotlib)
 
 ## using seaborn
 
-see `seaborn/`
+see [`seaborn/`](https://github.com/subhadarship/visualization/tree/master/seaborn)
 
 ## dimensionality reduction
 
