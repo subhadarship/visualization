@@ -47,6 +47,8 @@ full credit: [this link](https://github.com/netsatsawat/tutorial_KmeansClusterin
 ## poster
 see [`matplotlib/poster/`](https://github.com/subhadarship/visualization/tree/master/matplotlib/poster)
 
+for customizing, see [`matplotlib/poster/customize.ipynb`](https://github.com/subhadarship/visualization/blob/master/matplotlib/poster/customize.ipynb)
+
 credit: [this link](https://github.com/Perishleaf/data-visualisation-scripts/tree/master/matplotlib_2019_temp)
 
 ## useful resources
