@@ -44,6 +44,11 @@ see [`matplotlib/find_optimal_k_in_kmeans.ipynb`](https://github.com/subhadarshi
 
 full credit: [this link](https://github.com/netsatsawat/tutorial_KmeansClustering/blob/master/Tutorial_K%20Means%20Clustering.ipynb)
 
+## poster
+see [`matplotlib/poster/`](https://github.com/subhadarship/visualization/tree/master/matplotlib/poster)
+
+credit: [this link](https://github.com/Perishleaf/data-visualisation-scripts/tree/master/matplotlib_2019_temp)
+
 ## useful resources
 - [xkcd colors](https://xkcd.com/color/rgb/)
 - [matplotlib markers](https://matplotlib.org/3.1.1/api/markers_api.html)
