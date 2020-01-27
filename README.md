@@ -40,7 +40,7 @@ plot(x, y, color='green', marker='o', linestyle='dashed', linewidth=2, markersiz
 see [`matplotlib/show_errors.ipynb`](https://github.com/subhadarship/visualization/blob/master/matplotlib/show_error.ipynb)
 
 ## find optimal k in kmeans
-see [`matplotlib/find_optimal_k_in_kmeans`](https://github.com/subhadarship/visualization/blob/master/matplotlib/find_optimal_k_in_kmeans.ipynb)
+see [`matplotlib/find_optimal_k_in_kmeans.ipynb`](https://github.com/subhadarship/visualization/blob/master/matplotlib/find_optimal_k_in_kmeans.ipynb)
 
 full credit: [this link](https://github.com/netsatsawat/tutorial_KmeansClustering/blob/master/Tutorial_K%20Means%20Clustering.ipynb)
 
