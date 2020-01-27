@@ -45,7 +45,7 @@ see [`matplotlib/find_optimal_k_in_kmeans.ipynb`](https://github.com/subhadarshi
 full credit: [this link](https://github.com/netsatsawat/tutorial_KmeansClustering/blob/master/Tutorial_K%20Means%20Clustering.ipynb)
 
 ## poster
-see [`matplotlib/poster/`](https://github.com/subhadarship/visualization/tree/master/matplotlib/poster)
+see [`matplotlib/poster/create_poster.ipynb`](https://github.com/subhadarship/visualization/tree/master/matplotlib/poster/create_poster.ipynb)
 
 for customizing, see [`matplotlib/poster/customize.ipynb`](https://github.com/subhadarship/visualization/blob/master/matplotlib/poster/customize.ipynb)
 
