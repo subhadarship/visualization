@@ -51,6 +51,11 @@ for customizing, see [`matplotlib/poster/customize.ipynb`](https://github.com/su
 
 credit: [this link](https://github.com/Perishleaf/data-visualisation-scripts/tree/master/matplotlib_2019_temp)
 
+## gifs
+see [`matplotlib/gifs`](https://github.com/subhadarship/visualization/tree/master/matplotlib/gifs)
+
+credits: [this link](https://towardsdatascience.com/quick-code-exporting-matplotlib-animations-49cd0ecf32ba), [this link](http://louistiao.me/posts/notebooks/embedding-matplotlib-animations-in-jupyter-as-interactive-javascript-widgets/)
+
 ## useful resources
 - [xkcd colors](https://xkcd.com/color/rgb/)
 - [matplotlib markers](https://matplotlib.org/3.1.1/api/markers_api.html)
