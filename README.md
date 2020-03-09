@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/l0MYGN6pCa23vnUnS/giphy.gif)
+
 # visualization
 
 ## how to save plot in `eps` or `pdf` or `png` format?
