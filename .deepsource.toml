@@ -1,0 +1,23 @@
+# Version of the DeepSource TOML. Should be 1.
+version = 1
+
+# Glob pattern of the test files
+test_patterns = [
+  "tests/**"
+]
+
+# List of analyzers
+
+# Python analyzer
+[[analyzers]]
+name = "python"
+enabled = true
+runtime_version = "3.x.x"
+
+  [analyzers.meta]
+  max_line_length = 90
+
+# Test coverage analyzer
+[[analyzers]]
+name = "test-coverage"
+enabled = true
