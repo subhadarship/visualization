@@ -72,9 +72,5 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 .idea/.gitignore
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/visualization.iml
+
 LICENSE
