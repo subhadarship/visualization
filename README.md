@@ -58,6 +58,8 @@ see [`matplotlib/gifs/create_gif.ipynb`](https://github.com/subhadarship/visuali
 
 credits: [this link](https://towardsdatascience.com/quick-code-exporting-matplotlib-animations-49cd0ecf32ba), [this link](http://louistiao.me/posts/notebooks/embedding-matplotlib-animations-in-jupyter-as-interactive-javascript-widgets/)
 
+how to create synthwave: [`matplotlib/gifs/create_synthwave.py`](https://github.com/subhadarship/visualization/tree/master/matplotlib/gifs/create_synthwave.py) (credits: [this link](https://towardsdatascience.com/creating-synthwave-with-matplotlib-ea7c9be59760))
+
 ## useful resources
 - [xkcd colors](https://xkcd.com/color/rgb/)
 - [matplotlib markers](https://matplotlib.org/3.1.1/api/markers_api.html)
