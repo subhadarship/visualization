@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/l0MYGN6pCa23vnUnS/giphy.gif) ![Alt Text](https://miro.medium.com/max/1000/1*WACiczYwdWTnJ94mnizS4Q.jpeg)
+![Alt Text](https://media.giphy.com/media/l0MYGN6pCa23vnUnS/giphy.gif)
 
 # visualization
 
