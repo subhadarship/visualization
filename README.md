@@ -65,3 +65,6 @@ how to create synthwave: [`matplotlib/gifs/create_synthwave.py`](https://github.
 - [matplotlib markers](https://matplotlib.org/3.1.1/api/markers_api.html)
 - [matplotlib line styles](https://matplotlib.org/gallery/lines_bars_and_markers/line_styles_reference.html)
 
+# LICENSE
+
+[MIT](https://github.com/subhadarship/visualization/tree/master/LICENSE)
