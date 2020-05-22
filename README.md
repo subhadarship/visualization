@@ -64,6 +64,8 @@ how to create synthwave: [`matplotlib/gifs/create_synthwave.py`](https://github.
 - [xkcd colors](https://xkcd.com/color/rgb/)
 - [matplotlib markers](https://matplotlib.org/3.1.1/api/markers_api.html)
 - [matplotlib line styles](https://matplotlib.org/gallery/lines_bars_and_markers/line_styles_reference.html)
+- [colormind](http://colormind.io/)
+- [colordesigner](https://colordesigner.io/)
 
 ## LICENSE
 
