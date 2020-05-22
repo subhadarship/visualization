@@ -61,11 +61,12 @@ credits: [this link](https://towardsdatascience.com/quick-code-exporting-matplot
 how to create synthwave: [`matplotlib/gifs/create_synthwave.py`](https://github.com/subhadarship/visualization/tree/master/matplotlib/gifs/create_synthwave.py) (credits: [this link](https://towardsdatascience.com/creating-synthwave-with-matplotlib-ea7c9be59760))
 
 ## useful resources
-- [xkcd colors](https://xkcd.com/color/rgb/)
+- colours
+  - [xkcd colors](https://xkcd.com/color/rgb/)
+  - [colormind](http://colormind.io/)
+  - [colordesigner](https://colordesigner.io/)
 - [matplotlib markers](https://matplotlib.org/3.1.1/api/markers_api.html)
 - [matplotlib line styles](https://matplotlib.org/gallery/lines_bars_and_markers/line_styles_reference.html)
-- [colormind](http://colormind.io/)
-- [colordesigner](https://colordesigner.io/)
 
 ## LICENSE
 
