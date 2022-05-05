@@ -60,6 +60,9 @@ credits: [this link](https://towardsdatascience.com/quick-code-exporting-matplot
 
 how to create synthwave: [`matplotlib/gifs/create_synthwave.py`](https://github.com/subhadarship/visualization/tree/master/matplotlib/gifs/create_synthwave.py) (credits: [this link](https://towardsdatascience.com/creating-synthwave-with-matplotlib-ea7c9be59760))
 
+## cool circular bar plot
+see https://github.com/probablyvivek/Comics/blob/main/Marvel.ipynb
+
 ## useful resources
 - colours
   - [xkcd colors](https://xkcd.com/color/rgb/)
