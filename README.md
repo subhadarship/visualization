@@ -63,6 +63,9 @@ how to create synthwave: [`matplotlib/gifs/create_synthwave.py`](https://github.
 ## cool circular bar plot
 see https://github.com/probablyvivek/Comics/blob/main/Marvel.ipynb
 
+## insert image in a plot
+see https://github.com/hbshrestha/Data_Analytics/blob/main/notebooks/Inserting%20image%20to%20a%20plot%20in%20Matplotlib.ipynb
+
 ## useful resources
 - colours
   - [xkcd colors](https://xkcd.com/color/rgb/)
